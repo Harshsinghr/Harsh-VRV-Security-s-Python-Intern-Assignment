@@ -1,8 +1,5 @@
 # Harsh-VRV-Security-s-Python-Intern-Assignment
 Cybersecurity-related programming tasks.
-# VRV Assignment
-
-## VRV Security’s Python Intern Assignment  
 **Assignment: Log Analysis Script**
 
 ---
